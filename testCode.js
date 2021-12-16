@@ -1,4 +1,4 @@
-@import url('https://www.gstatic.com/firebasejs/8.0.0/firebase.js');
+import url('https://www.gstatic.com/firebasejs/8.0.0/firebase.js');
 
 
 const firebaseConfig = {
