@@ -1,9 +1,4 @@
-<!-- Firebase - like import-->
-<script src="https://www.gstatic.com/firebasejs/8.0.0/firebase.js"></script>
-<script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
 
-<!-- firebase connection -like myDb -->
-<script>
 const firebaseConfig = {
   apiKey: "AIzaSyD9mB9HeU2AARcd7u6HsKMmNHkjcsUEetw",
   authDomain: "livecmbarra.firebaseapp.com",
@@ -14,4 +9,4 @@ const firebaseConfig = {
 };
 // Initialize Firebase
 firebase.initializeApp(firebaseConfig);
-</script>
+
